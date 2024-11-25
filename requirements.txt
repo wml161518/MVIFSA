@@ -1,0 +1,7 @@
+tensorflow-gpu
+tensorflow
+numpy
+keras
+configparser
+tqdm
+urllib
