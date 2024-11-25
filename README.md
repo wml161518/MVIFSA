@@ -4,7 +4,7 @@
 
 MVIFSA comprises five network layers: a multi-view embedding layer, an information fusion layer, a complex information representation layer, a residual learning layer, and a self-attention layer. The model diagram is as follows.
 
-![](.\img\MVIFSA.png)
+![](./img/MVIFSA.png)
 
 #### How to run our code?
 
